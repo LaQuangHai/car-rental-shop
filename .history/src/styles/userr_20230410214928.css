@@ -1,0 +1,15 @@
+ * {
+     margin: 0;
+     padding: 0;
+ }
+
+
+.rounded-circle {
+    width: 45px; 
+    height: 45px
+}
+ 
+.btn btn-link btn-rounded btn-sm fw-bold:hover {
+    background-color: #6b0cfb;
+
+}
